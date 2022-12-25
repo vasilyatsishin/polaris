@@ -1,0 +1,25 @@
+.navlink {
+  width: 310px;
+  height: 70px;
+  background-color: #3b47b2;
+  border-radius: 81px;
+  font-family: "Nunito Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  text-align: center;
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.whiteArrow {
+  width: 11px;
+  margin-right: 24px;
+}

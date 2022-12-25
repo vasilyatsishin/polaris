@@ -1,0 +1,14 @@
+.wrapper{
+    width: 65%;
+    margin-top: 205.5px;
+    margin-left: 120px;
+}
+
+.title {
+  font-family: "Acherus Feral";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 55px;
+  line-height: 120%;
+  color: #ffffff;
+}

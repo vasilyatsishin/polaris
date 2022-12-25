@@ -1,0 +1,41 @@
+.wrapper {
+  margin-left: 120px;
+  margin-top: 180px;
+  width: 87.0715%;
+}
+
+.peopleBackground {
+  width: 39.516%;
+  position: absolute;
+  height: 637px;
+}
+
+.containerMohanad,
+.containerElena {
+  position: relative;
+  background-color: #3b47b3;
+  border-radius: 12px;
+  width: 150px;
+  height: 58px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Acherus Feral";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 22px;
+  text-align: center;
+
+  color: #ffffff;
+}
+
+.containerMohanad {
+  left: 386px;
+  top: 330px;
+}
+
+.containerElena {
+  left: -50px;
+  top: 372px;
+}
