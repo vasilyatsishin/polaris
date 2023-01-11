@@ -2,12 +2,20 @@
   margin-left: 120px;
   margin-top: 180px;
   width: 87.0715%;
+  display: flex;
+  justify-content: space-between;
+  height: 637px; 
+}
+
+.wrapperImg{
+  width: 39.715%;
+  position: relative;
 }
 
 .peopleBackground {
-  width: 39.516%;
   position: absolute;
-  height: 637px;
+  width: 100%;
+  height: 100%;
 }
 
 .containerMohanad,
@@ -31,11 +39,25 @@
 }
 
 .containerMohanad {
-  left: 386px;
+  right: -376px;
   top: 330px;
 }
 
 .containerElena {
   left: -50px;
   top: 372px;
+}
+
+.title {
+  width: 560px;
+  font-family: "Acherus Feral";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 120%;
+  color: #1f1f1f;
+}
+
+.span {
+  color: #3B47B2;
 }

@@ -17,7 +17,7 @@ const Biography = () => {
         <p className={styles.about}>О компании</p>
         <h1 className={styles.title}>
           Я, Елена Кислая и мой супруг Моханад Аль Мишал основатели и главные
-          специалисты компании Polaris.{" "}
+          специалисты компании <span className={styles.span}>Polaris</span>.
         </h1>
       </div>
     </div>
